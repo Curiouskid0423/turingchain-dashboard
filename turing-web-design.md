@@ -77,5 +77,6 @@ Column name / Form type (e.g. text input, png image, excel file...etc) / Size an
     - package.json
     - webpack and all the other miscell config files
 <br>
+
 - React Component Information and Hierarchy
 - Data retrieval types from the backend (Harry)
