@@ -35,14 +35,17 @@ This page will contain a collapsable **dashboard** divided into :three: **sectio
     - `Section 2 證書設計` 
         - 圖形設計範例
         - 使用自有設計 (建議png檔，尺寸大小A3/B3)
+            - **Gallery** :question:
         - 備註欄
     - `Section 3 收證人資訊` 
         - 提供樣本表單(內含必須之參數，客戶可另外自行增加參數)
-        - 上傳表單（可接受CSV和excel檔，亦可多次上傳，只會儲存最新版本）
+        - 上傳表單（可接受csv和excel檔，亦可多次上傳，只會儲存最新版本）
+    - Buttons : `save` or `submit`
+    Users may save unlimited times before submission.
 
 
 - **開發所需之規格** 
-Column name / Form type (e.g. text input, png image, excel file...etc) / Size and stringlength limit.
+Column name / Form type (e.g. text input, png image, excel file...etc) / Size and string length limit.
 
 
 #### :star: 404 Page
@@ -53,6 +56,7 @@ Column name / Form type (e.g. text input, png image, excel file...etc) / Size an
 ##### Missing Info
 - 填寫時顯示的instructions
 - 客戶輸入規格 (檔案大小、種類...etc)
+- 自有設計檔要pdf 還是png ?
 
 
 
@@ -76,7 +80,12 @@ Column name / Form type (e.g. text input, png image, excel file...etc) / Size an
         - `redux-store/` (optional)
     - package.json
     - webpack and all the other miscell config files
+- **Data Fetch from backend**
+    - All user responses
+
 <br>
 
-- React Component Information and Hierarchy
-- Data retrieval types from the backend (Harry)
+#### React Component Information and Hierarchy
+To be completed.
+#### Data retrieval types from the backend (Harry)
+To be completed.
