@@ -1,4 +1,4 @@
-<h1 class = "light-blue"> Turing Chain 網頁軟體設計</h1>
+<h1>Turing Chain 網頁軟體設計</h1>
 <p>Aug. 20th, 2020</p>
 <hr>
 
@@ -79,22 +79,3 @@ Column name / Form type (e.g. text input, png image, excel file...etc) / Size an
 <br>
 - React Component Information and Hierarchy
 - Data retrieval types from the backend (Harry)
-
-
-<style> 
-
-.light-blue {
-    color: cornflowerblue;
-}
-
-.tag {
-    background: #8e8e8e;
-    border: none;
-    border-radius: 0.9rem;
-    color: white;
-    font-size: .9rem;
-    font-family: Arial;
-    padding: .2rem 1rem;
-}
-
-</style>
